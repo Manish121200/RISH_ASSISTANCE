@@ -42,5 +42,5 @@
 We welcome contributions! Feel free to fork the repository and submit a Pull Request (PR).
 
 # 📬 **Contact**
-✉️ Email: your-email@example.com <br>
-🔗 LinkedIn: Your Profile
+✉️ Email: kumarmanish121200.com <br>
+🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/manish121200/)
